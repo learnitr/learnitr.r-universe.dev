@@ -8,7 +8,11 @@
     "url": "https://github.com/learnitr/learnitgrid"
   },
   {
-    "package": "learnitdown",
+    "package": "learnitdashboard",
     "url": "https://github.com/learnitr/learnitdashboard"
+  },
+  {
+    "package": "learnitprogress",
+    "url": "https://github.com/learnitr/learnitprogress"
   }
 ]
