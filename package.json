@@ -1,0 +1,14 @@
+[
+  {
+    "package": "learnitdown",
+    "url": "https://github.com/learnitr/learnitdown"
+  },
+  {
+    "package": "learnitgrid",
+    "url": "https://github.com/learnitr/learnitgrid"
+  },
+  {
+    "package": "learnitdown",
+    "url": "https://github.com/learnitr/learnitdashboard"
+  }
+]
